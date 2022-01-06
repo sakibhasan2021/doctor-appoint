@@ -1,0 +1,15 @@
+.banner{
+    margin: 40px;
+    padding: 3px;
+    display:grid;
+    grid-template-columns: 3fr 1fr;
+}
+.banner-image img{
+    width: 70%;
+    height: 70vh;
+}
+.Button{
+    background-color:rgb(168, 66, 66);
+    border:none;
+
+}
